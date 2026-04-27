@@ -1,141 +1,36 @@
-# 📌 Perfil e Roadmap de Carreira em Tecnologia
+# 👨‍💻 IA Mentor de Carreira - The Secure Cloud Path
 
-## 📝 Entrevista (Agent 1)
+Este repositório contém a configuração e a documentação do meu **Mentor de Carreira Tech**, desenvolvido para o desafio de laboratório da **DIO**. O foco deste agente é orientar profissionais em transição de carreira ou especialização em Infraestrutura Cloud e Cibersegurança.
 
-**Pergunta 1:** O que mais te atrai em tecnologia?  
-**Resposta:** Entender sistemas  
+## 🎯 Objetivo do Projeto
 
-**Pergunta 2:** Você já tem experiência na área de tecnologia ou está começando do zero?  
-**Resposta:** 3,8 anos  
+O objetivo foi transformar o modelo base de mentoria da DIO em um guia especializado para a minha trilha de aprendizado: **Linux, Redes e Cybersecurity**. O agente utiliza uma abordagem prática, conectando conhecimentos de base (como administração de sistemas) com as necessidades do mercado de Cloud Computing.
 
-**Pergunta 3:** Quantas horas por semana você consegue dedicar aos estudos?  
-**Resposta:** 18 horas  
+## 🚀 O Roadmap: The Secure Cloud Path 2026
 
-**Pergunta 4:** No seu dia a dia, você prefere lidar mais com pessoas, dados ou código?  
-**Resposta:** Código  
+Para este desafio, configurei o mentor para gerar um plano de estudos estratégico de 4 meses, focado em consolidar a base técnica necessária para arquitetura de soluções seguras.
 
-**Pergunta 5:** Qual é seu objetivo principal?  
-**Resposta:** Crescer na função atual  
+![Roadmap de Carreira](https://googleusercontent.com/image_generation_content/2)
 
-**Pergunta 6:** Quais assuntos ou tecnologias mais despertam seu interesse?  
-**Resposta:** Desenvolvimento Web  
+### 📚 Trilhas de Estudo e Referências (YouTube)
 
-**Pergunta 7:** Você tem alguma experiência prévia (mesmo que não seja em tech) que gostaria de aproveitar?  
-**Resposta:** Sim, 3 anos e meio  
+O mentor foi instruído a recomendar os melhores materiais gratuitos para cada pilar:
 
----
+| Pilar | Foco Principal | Referência Recomendada |
+| :--- | :--- | :--- |
+| **Linux Admin** | Permissões, SSH e Gestão de Servidores | [Diolinux](https://www.youtube.com/@diolinux) |
+| **Redes** | Modelo OSI, Protocolos e VPCs | [Bóson Treinamentos](https://www.youtube.com/@bosontreinamentos) |
+| **Cybersecurity** | OWASP, Proteção de Dados e Nuvem | [Guia Anônima](https://www.youtube.com/@GuiaAnonima) |
 
-## 📊 Análise de Carreira (Agent 1)
+## 🤖 Configuração do Agente (Prompt de Sistema)
 
-### 🥇 1º Lugar: Desenvolvedor Web Full Stack – 18/20
-- **Por que combina:** Afinidade com código, experiência prévia e interesse em desenvolvimento web.  
-- **Vantagens:** Grande demanda, evolução clara na carreira.  
-- **Desafios:** Acompanhar frameworks em constante mudança, entregar soluções escaláveis.  
-- **Mercado:** Muito aquecido, varia por região e experiência.  
+O diferencial deste mentor é a sua capacidade de entender a bagagem do usuário. O prompt final utilizado foi:
 
-### 🥈 2º Lugar: Engenheiro de Software Backend – 16/20
-- **Por que combina:** Foco em código e sistemas.  
-- **Vantagens:** Papel estratégico, valorização em escala.  
-- **Desafios:** Domínio de bancos de dados e performance.  
-- **Mercado:** Alta demanda em empresas digitais.  
+> "Atue como um Mentor Sênior em Cloud & Cyber. Sua missão é guiar o usuário na transição para TI, valorizando sua experiência prévia no varejo como diferencial de soft skills. Foque em criar roadmaps que unam Linux (Fedora/RHEL), Redes e Segurança, preparando-o para certificações como CompTIA Security+ ou AWS Certified Solutions Architect."
 
-### 🥉 3º Lugar: Especialista em Arquitetura de Sistemas – 14/20
-- **Por que combina:** Interesse inicial em entender sistemas.  
-- **Vantagens:** Visão estratégica, liderança técnica.  
-- **Desafios:** Requer experiência consolidada, menos foco em código.  
-- **Mercado:** Muito valorizado em estágios avançados da carreira.  
+## 🧠 Reflexão sobre o Desafio
 
-**Carreira escolhida:** Desenvolvedor Web Full Stack  
+Através do conceito de **Vibe Coding**, este laboratório permitiu materializar um plano de estudos que antes estava disperso. A IA atuou como um arquiteto de carreira, filtrando o excesso de informações da internet para focar no que realmente importa para meus projetos atuais, como o meu app de finanças pessoais.
 
 ---
-
-## 📦 Plano de Estudos (Agent 2)
-
-### 🧩 Visão do Dia a Dia
-- Criar interfaces web responsivas  
-- Desenvolver APIs e lógica de negócio  
-- Integrar banco de dados  
-- Testar e corrigir bugs  
-- Colaborar com equipes de design e produto  
-
-### 🧠 Mapa de Skills
-**Core Skills:**  
-- HTML, CSS, JavaScript  
-- React, Node.js  
-- Bancos de dados (SQL/NoSQL)  
-
-**Nice-to-Have:**  
-- TypeScript  
-- Docker e CI/CD  
-
-**Ferramentas:**  
-- React.js  
-- Node.js  
-- MongoDB / PostgreSQL  
-
----
-
-### 📅 Roadmap de 90 Dias (18h/semana)
-
-**Mês 1 - Fundamentos**  
-- Semana 1-2: Revisar HTML, CSS, JS; criar pequenos projetos  
-- Semana 3-4: Git/GitHub; APIs REST  
-
-**Mês 2 - Prática**  
-- Semana 5-6: React.js (componentes, hooks); To-Do List  
-- Semana 7-8: Node.js + Express; API CRUD com banco de dados  
-
-**Mês 3 - Portfólio e Preparação**  
-- Semana 9-10: Integração frontend + backend; autenticação  
-- Semana 11-12: Deploy em Vercel/Render; preparação para entrevistas  
-
----
-
-### 🚀 Projeto de Portfólio
-**Projeto:** Plataforma de Blog Full Stack  
-**Escopo:** Cadastro/login, CRUD de posts e comentários, deploy online  
-**Entregáveis:**  
-- Frontend responsivo em React  
-- Backend em Node.js  
-- Banco de dados conectado  
-
-**Critérios de Aceitação:**  
-- Cadastro/login funcionando  
-- CRUD completo  
-- Deploy acessível  
-
-**Dica:** Comece simples e vá adicionando funcionalidades extras.  
-
----
-
-### 💬 Roteiro de Entrevistas
-1. **O que é React?**  
-   Resposta: Biblioteca para criar interfaces dinâmicas, reuso de componentes.  
-
-2. **Diferença entre SQL e NoSQL?**  
-   Resposta: SQL é relacional e estruturado; NoSQL é flexível e não-relacional.  
-
-3. **O que é uma API REST?**  
-   Resposta: Padrão de comunicação entre sistemas via HTTP.  
-
-4. **Como versiona código em equipe?**  
-   Resposta: Git, branches, pull requests, boas práticas.  
-
-5. **Como lida com bugs?**  
-   Resposta: Debugging, logs e testes automatizados.  
-
----
-
-### 🎓 Trilha DIO Recomendada
-**Trilha:** Bootcamp Fullstack Developer  
-**Por que:** Cobre frontend e backend, alinhado ao objetivo de crescimento.  
-**Próximos passos:**  
-1. Acesse dio.me  
-2. Busque por "Bootcamp Fullstack Developer"  
-3. Inscreva-se gratuitamente  
-4. Siga o cronograma junto com este roadmap  
-
----
-
-✨ **Plano finalizado!**  
-Constância é mais importante que velocidade. Comece pela Semana 1 e avance no seu ritmo.
+Desenvolvido por [Cristianoads](https://github.com/cristianoads) durante o Bootcamp DIO Lupo.
